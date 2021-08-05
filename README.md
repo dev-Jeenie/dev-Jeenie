@@ -24,10 +24,10 @@ Hi this is Jeenie!
 - 📫 How to reach me: hagene1757@gmail.com
 - 🌟 I wanna be a Front-end Developer! Please help me a lot 😘
 
-Here's my Blog (I update it everyday!) => https://jeenie-hildegard.tistory.com/
-Here's my notion (Same as here!) => https://www.notion.so/React-bb35c81f08c2455bae8d66747ddd8876
-I have youtube Channel! Please don't hesitate to follow me :D => comming Sooooon!
-And It's my port-folio site. => comming Sooooon!
+- Here's my Blog (I update it everyday!) => https://jeenie-hildegard.tistory.com/
+- Here's my notion (Same as here!) => https://www.notion.so/React-bb35c81f08c2455bae8d66747ddd8876
+- I have youtube Channel! Please don't hesitate to follow me :D => comming Sooooon!
+- And It's my port-folio site. => comming Sooooon!
 
 Thank you for visiting my site :D
 Here's my wishes for happiness to you!
