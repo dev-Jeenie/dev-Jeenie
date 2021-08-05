@@ -20,13 +20,14 @@ Hi this is Jeenie!
 
 - 🔭 I’m currently working on Actbase, as a Publisher.
 - 🌱 I’m currently learning React, React-Native, JS.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for someone to join my study group!
+- 🤔 I’m looking for someone to join my study group! Let's study together :D
 - 📫 How to reach me: hagene1757@gmail.com
+- 🌟 I wanna be a Front-end Developer! Please help me a lot 😘
 
 Here's my Blog (I update it everyday!) => https://jeenie-hildegard.tistory.com/
 Here's my notion (Same as here!) => https://www.notion.so/React-bb35c81f08c2455bae8d66747ddd8876
-And It's my port-folio site. => 
+I have youtube Channel! Please don't hesitate to follow me :D => comming Sooooon!
+And It's my port-folio site. => comming Sooooon!
 
 Thank you for visiting my site :D
 Here's my wishes for happiness to you!
