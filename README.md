@@ -21,7 +21,6 @@ Hi this is Jeenie!
 
 - 🔭 I’m currently working on Actbase, as a Publisher.
 - 🌱 I’m currently learning React, React-Native, JS.
-- 🤔 I’m looking for someone to join my study group! Let's study together :D
 - 📫 How to reach me: hagene1757@gmail.com
 - 🌟 I wanna be a Front-end Developer! Please help me a lot 😘
 
