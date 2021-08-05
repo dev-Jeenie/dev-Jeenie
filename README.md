@@ -25,7 +25,7 @@ Hi this is Jeenie!
 
 - Here's my Blog (I update it everyday!) => https://jeenie-hildegard.tistory.com/
 - Here's my notion (Same as here!) => https://www.notion.so/React-bb35c81f08c2455bae8d66747ddd8876
-- I have youtube Channel! Please don't hesitate to follow me :D => comming Sooooon!
+- I have youtube Channel! Please don't hesitate to follow me :D => [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA)](https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA)
 - And It's my port-folio site. => comming Sooooon!
 
 Thank you for visiting my site :D<br/>
@@ -39,7 +39,7 @@ Here's my wishes for happiness to you!🍀🍀🍀🍀🍀🍀🍀<br />
 	
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 	
-  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+
 	
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 	-->
