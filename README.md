@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 Hi this is Jeenie!
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
 
 - 🔭 I’m currently working on Actbase, as a Publisher.
 - 🌱 I’m currently learning React, React-Native, JS.
