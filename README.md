@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 Hi this is Jeenie!
 
-- 🔭 I’m currently working on Actbase, as a Publisher.
 - 🌱 I’m currently learning React, React-Native, JS.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev-Jeenie@gmail.com)](mailto:dev-Jeenie@gmail.com)
 - 🌟 I wanna be a Front-end Developer! Please help me a lot 😘
