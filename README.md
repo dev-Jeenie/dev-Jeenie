@@ -23,9 +23,7 @@ Hi this is Jeenie!
 - - Here's my Blog =>   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://dev-jeenie.github.io/)
 <!-- - 🌟 I wanna be a Front-end Developer! Please help me a lot 😘 -->
 
-- Here's my Blog =>   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://dev-jeenie.github.io/)
-
-<!-- - - Here's my Blog (I update it everyday!) => https://dev-jeenie.github.io/ -->
+<!-- - Here's my Blog (I update it everyday!) => https://dev-jeenie.github.io/ -->
 <!-- - Here's my notion (Same as here!) => https://www.notion.so/React-bb35c81f08c2455bae8d66747ddd8876
 - I have youtube Channel! Please don't hesitate to follow me :D => [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA)](https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA) -->
 <!-- - And It's my port-folio site. => comming Sooooon! -->
