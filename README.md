@@ -20,7 +20,7 @@ Hi this is Jeenie!
 
 - 🌱 I’m currently learning React, React-Native, JS.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev-Jeenie@gmail.com)](mailto:dev-Jeenie@gmail.com)
-- - Here's my Tech Blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://dev-jeenie.github.io/)
+- Here's my Tech Blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://dev-jeenie.github.io/)
 <!-- - 🌟 I wanna be a Front-end Developer! Please help me a lot 😘 -->
 
 <!-- - Here's my Blog (I update it everyday!) => https://dev-jeenie.github.io/ -->
