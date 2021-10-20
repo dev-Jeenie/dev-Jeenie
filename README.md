@@ -20,13 +20,14 @@ Hi this is Jeenie!
 
 - 🌱 I’m currently learning React, React-Native, JS.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev-Jeenie@gmail.com)](mailto:dev-Jeenie@gmail.com)
-- 🌟 I wanna be a Front-end Developer! Please help me a lot 😘
+<!-- - 🌟 I wanna be a Front-end Developer! Please help me a lot 😘 -->
 
-- Here's my Blog (I update it everyday!) => https://dev-jeenie.github.io/
-- Here's my notion (Same as here!) => https://www.notion.so/React-bb35c81f08c2455bae8d66747ddd8876
-- I have youtube Channel! Please don't hesitate to follow me :D => [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA)](https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA)
-- And It's my port-folio site. => comming Sooooon!
-
+- Here's my Blog => https://dev-jeenie.github.io/
+<!-- - - Here's my Blog (I update it everyday!) => https://dev-jeenie.github.io/ -->
+<!-- - Here's my notion (Same as here!) => https://www.notion.so/React-bb35c81f08c2455bae8d66747ddd8876
+- I have youtube Channel! Please don't hesitate to follow me :D => [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA)](https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA) -->
+<!-- - And It's my port-folio site. => comming Sooooon! -->
+<!-- 
 Thank you for visiting my site :D<br/>
 Here's my wishes for happiness to you!🍀🍀🍀🍀🍀🍀🍀<br />
 <br /><br />
@@ -42,6 +43,6 @@ Here's my wishes for happiness to you!🍀🍀🍀🍀🍀🍀🍀<br />
 	
   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/zzsza)
 	-->
-	
+	 -->
 
 	
