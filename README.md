@@ -20,7 +20,7 @@ Hi this is Jeenie!
 
 - 🌱 I’m currently learning React, React-Native, JS.
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev-Jeenie@gmail.com)](mailto:dev-Jeenie@gmail.com)
-- - Here's my Blog =>   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://dev-jeenie.github.io/)
+- - Here's my Tech Blog : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://dev-jeenie.github.io/)
 <!-- - 🌟 I wanna be a Front-end Developer! Please help me a lot 😘 -->
 
 <!-- - Here's my Blog (I update it everyday!) => https://dev-jeenie.github.io/ -->
@@ -28,8 +28,7 @@ Hi this is Jeenie!
 - I have youtube Channel! Please don't hesitate to follow me :D => [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA)](https://www.youtube.com/channel/UCkAF6Ydg_miMDtW0EFAOIZA) -->
 <!-- - And It's my port-folio site. => comming Sooooon! -->
 
-Thank you for visiting my site :D<br/>
-Here's my wishes for happiness to you!🍀🍀🍀🍀🍀🍀🍀<br />
+Thank you for visiting my site :D Here's my wishes for happiness to you!🍀🍀🍀🍀🍀🍀🍀<br />
 <br /><br />
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dev-Jeenie)](https://github.com/anuraghazra/github-readme-stats)
 
