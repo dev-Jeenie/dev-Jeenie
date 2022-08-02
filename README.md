@@ -41,8 +41,7 @@ const Jeenie = {
 ## Where to find me 👀
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev-Jeenie@gmail.com)](mailto:dev-Jeenie@gmail.com)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-007e1c?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://dev-jeenie.github.io/)
-New! : [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-007e1c?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://velog.io/@devjeenie)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-007e1c?style=flat-square&logo=github&link=https://dev-jeenie.github.io/)](https://velog.io/@devjeenie)
 [![Notion Badge](https://img.shields.io/badge/Notion-007ACC?style=flat-square&logo=Notion&logoColor=white&link=https://brave-case-c88.notion.site/Jeenie-e2d2fa1944c3449bb58349b1e2b1b871#478f54c955da4360932c9d88441f9368)](https://brave-case-c88.notion.site/Jeenie-e2d2fa1944c3449bb58349b1e2b1b871#478f54c955da4360932c9d88441f9368)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree&link=https://https://www.instagram.com/hildegard917/)](https://www.instagram.com/hildegard917/)
 
