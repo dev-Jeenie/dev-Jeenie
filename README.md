@@ -28,11 +28,13 @@ I’m junior Front-end Developer working in 🇰🇷 Seoul, south korea. <br /><
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+
 
 ```js
 const Jeenie = {
     code: ["Javascript", "Typescript", "HTML", "CSS"],
-    tools: ["React", "React-Native", "Styled-Components","Git"],
+    tools: ["React", "React-Native", "Styled-Components","Git", "Next.js"],
     loves: ["3D-modeling", "Games", "People", "Sweets"],
     life-motto: "Make it happen, Jeenie!"
 }
